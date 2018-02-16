@@ -1,0 +1,4 @@
+waypoint:Maeby's Pocket:M:14:65:10:9:false:0:gui.xaero_default:false:0
+waypoint:My Secondary Pocket:M:-312:65:3:8:false:0:gui.xaero_default:false:0
+waypoint:Outside My 2nd Pocket:O:-312:80:3:9:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint:D:-1998:-114:5:0:false:1:gui.xaero_default:false:0
